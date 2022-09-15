@@ -1,6 +1,5 @@
 #2022_09_13_updating_carbon_data_for_AGCB
 
-setwd("/users/zhajianf/desktop/July 2021 Desktop/Oct 30 desktop/Research 2019")
 c.dat <- read.csv("2022_04_19_PR_Carbon_Data_for_anaysis.csv")
 update.dat <- read.csv("2022_09_13_Javier_updated_AGCB.csv")
 
