@@ -1,0 +1,16 @@
+"","x.var","y.var","cor","p.val"
+"1","% canopy cover","Farm C",0.5552,0
+"2","% canopy cover","Farm AGCB",0.6021,0
+"3","% canopy cover","SOC",-0.0747,0.542
+"4","canopy height (m)","Farm C",0.433,0.0271
+"5","canopy height (m)","Farm AGCB",0.3858,0.0516
+"6","canopy height (m)","SOC",-0.0171,0.9339
+"7","coffee height","Farm C",0.2206,0.2789
+"8","coffee height","Farm AGCB",0.2857,0.1572
+"9","coffee height","SOC",0.0065,0.9748
+"10","% ground cover","Farm C",0.0207,0.8638
+"11","% ground cover","Farm AGCB",-0.0083,0.9453
+"12","% ground cover","SOC",0.4083,4e-04
+"13","# of crops","Farm C",0.2027,0.09
+"14","# of crops","Farm AGCB",0.1865,0.1193
+"15","# of crops","SOC",-0.0477,0.6927
