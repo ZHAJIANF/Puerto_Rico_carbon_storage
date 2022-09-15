@@ -1,7 +1,5 @@
 rm(list=ls())
 
-setwd("/users/zhajianf/desktop/July 2021 Desktop/Oct 30 desktop/Research 2019")
-
 
 c.dat<- read.csv("2022_09_13_PR_Carbon_Data_for_anaysis_updated.csv") ## this is the updated df with correct AGCB 
 
