@@ -1,6 +1,5 @@
 rm(list=ls())
 
-setwd("/users/zhajianf/desktop/July 2021 Desktop/Oct 30 desktop/Research 2019")
 
 #c.dat.old <- read.csv("2022_04_19_PR_Carbon_Data_for_anaysis.csv")
 
